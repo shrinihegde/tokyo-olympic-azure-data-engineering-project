@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "athletes.csv",
+				"fileName": "coaches.csv",
 				"folderPath": "raw_data",
 				"fileSystem": "tokyo-olympic-data"
 			},
