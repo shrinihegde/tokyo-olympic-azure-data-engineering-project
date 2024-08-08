@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-data-factory-shrini",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b780e8c-4e65-400d-9c02-859f3bfb31a4",
+		"tenantId": "a0fceecf-1f9e-4fcb-9b19-fc7889d115cc"
+	}
+}
